@@ -1,0 +1,2 @@
+# Interpretable-AI-SHAP-Analysis-of-a-Complex-Gradient-Boosting-Model-for-Credit-Risk-Assessment
+Creates a realistic LendingClub-like synthetic dataset (so you get a dataset included and the code runs offline),  Trains and hyperparameter-tunes a LightGBM gradient boosting classifier for credit-default (binary),  Handles class imbalance sensibly,  Computes tree-based feature importance and SHAP explanations (global &amp; local).
